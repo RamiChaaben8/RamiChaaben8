@@ -50,6 +50,7 @@
 
 | Certification | Issuer | Issued | Skills |
 |---|---|---|---|
+| Bachelor's Degree (Licence) in Computer Science and Multimedia | ISIMS – Higher Institute of Computer Science and Multimedia of Sfax | 2024 | Computer Science, Multimedia |
 | Software Engineering: Modeling Software Systems using UML | Coursera | Aug 2023 | UML |
 | Introduction to C# Programming and Unity | Coursera | Jan 2020 | C#, Unity |
 | The Fundamentals of Video Editing | New Vision Center Sfax | Feb 2019 | Adobe Premiere Pro |
